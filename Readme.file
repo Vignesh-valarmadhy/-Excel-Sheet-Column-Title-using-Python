@@ -24,3 +24,28 @@ Example 3:
 
 Input: columnNumber = 701
 Output: "ZY"
+
+
+
+
+
+
+
+
+explanation 
+
+*****************************************************************
+
+ord - convert to Ascii
+chr = convert to character
+
+*****************************************************************
+
+
+
+
+we divide columnNumber  - 1 and do the division of 26 for tha last number
+
+and again we again do floor division for the first number
+
+later we reverse it 
